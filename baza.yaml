@@ -18,7 +18,7 @@ spec:
       - name: mysql
         image: mysql:latest
         env:
-          - name: MYSQL_ROT_PASSWORD
+          - name: MYSQL_ROOT_PASSWORD
             value: secretpass
         resources:
           requests:
