@@ -1,5 +1,6 @@
 # Witamy w finale! TEAM24
 Potyczki Młodych Adminów 2024 - TEAM24
+ODPOWIEDZI ZNAJDUJĄ SIĘ OBOK PYTAŃ!!!!
 
 ## Wstęp
 Tegoroczne zadania są pomyślane jako dzień z pracy administratora w korporacji. Jest trochę codziennych, podstawowych czynności, trochę pomagamy mniej doświadczonym kolegom, jest znaczący nacisk na elementy związane z bezpieczeństwem, są też wyzwania i awarie, z którymi należy jak najszybciej się uporać bo kosztują naszą organizację pieniądze. Czasem jedna litera jest różnicą między pracą dobrze zrobioną, a niewytłumaczalnym (albo niewybaczalnym) błędem. Jak w prawdziwym życiu, zadań jest więcej niż czasu i warto odpowiednio priorytetyzować.
@@ -188,4 +189,4 @@ Kolejna instancja mysql sprawia problemy, Adrian od trzech dni przez nią nie ś
 
 ### Zadanie 18 ZROBIONE
 Adrian chciał uruchomić aplikację "hello-world", ale nawet to mu nie działa. Znajdź przyczynę problemu i uruchom hello-world. **20 pkt**
-**Zmiana container-image na rancher/hello-world, problemem była wersja arm.**
+**Zmiana container-image na rancher/hello-world, problemem była wersja arm64, nie zgodna z architekturą komputera.**
